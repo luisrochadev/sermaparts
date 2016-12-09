@@ -56,6 +56,9 @@ footer.page-footer {
   margin: 0;
 }
 
-.sermaBanner{
-   background-position: center top;
+
+/*add these to owl SASS file later*/
+.owl-carousel{
+  text-align: center;
+  padding-top: 20px;
 }
