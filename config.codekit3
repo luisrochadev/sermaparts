@@ -15,14 +15,6 @@
 		"oAP": "\/about.html",
 		"oF": 0
 		},
-	"\/assets\/clients.jpg": {
-		"ft": 16384,
-		"iS": 135638,
-		"oA": 0,
-		"oAP": "\/assets\/clients.jpg",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/assets\/logo.png": {
 		"ft": 32768,
 		"iS": 25447,
@@ -39,6 +31,86 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/assets\/logos\/chileno-bay-logo.png": {
+		"ft": 32768,
+		"iS": 97351,
+		"oA": 0,
+		"oAP": "\/assets\/logos\/chileno-bay-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/logos\/el-dorado-logo.png": {
+		"ft": 32768,
+		"iS": 97351,
+		"oA": 0,
+		"oAP": "\/assets\/logos\/el-dorado-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/logos\/four-seasons-punta-mita-logo.png": {
+		"ft": 32768,
+		"iS": 97416,
+		"oA": 0,
+		"oAP": "\/assets\/logos\/four-seasons-punta-mita-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/logos\/montage-logo.png": {
+		"ft": 32768,
+		"iS": 97278,
+		"oA": 0,
+		"oAP": "\/assets\/logos\/montage-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/logos\/one-and-only-palmilla-logo.png": {
+		"ft": 32768,
+		"iS": 97278,
+		"oA": 0,
+		"oAP": "\/assets\/logos\/one-and-only-palmilla-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/logos\/pueblo-bonito-logo.png": {
+		"ft": 32768,
+		"iS": 97205,
+		"oA": 0,
+		"oAP": "\/assets\/logos\/pueblo-bonito-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/logos\/quivira-los-cabos-logo.png": {
+		"ft": 32768,
+		"iS": 97008,
+		"oA": 0,
+		"oAP": "\/assets\/logos\/quivira-los-cabos-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/logos\/ritz-carlton-logo.png": {
+		"ft": 32768,
+		"iS": 97008,
+		"oA": 0,
+		"oAP": "\/assets\/logos\/ritz-carlton-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/logos\/saint-regis-punta-mita-logo.png": {
+		"ft": 32768,
+		"iS": 97008,
+		"oA": 0,
+		"oAP": "\/assets\/logos\/saint-regis-punta-mita-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/logos\/villas-del-mar-logo.png": {
+		"ft": 32768,
+		"iS": 19781,
+		"oA": 0,
+		"oAP": "\/assets\/logos\/villas-del-mar-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/contact.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -52,16 +124,6 @@
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/css\/style-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/css\/stylesheet.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/css\/stylesheet-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -115,11 +177,11 @@
 		},
 	"\/images\/services.jpg": {
 		"ft": 16384,
-		"iS": 897739,
+		"iS": 690024,
 		"oA": 0,
 		"oAP": "\/images\/services.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/images\/truck.jpg": {
 		"ft": 16384,
@@ -152,6 +214,15 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/js\/scripts-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/scripts-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/js\/scripts.js": {
 		"ft": 64,
 		"mi": 1,
@@ -160,6 +231,29 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/sass\/app.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/sass\/app-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/sass\/app.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/sass\/app.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
 		},
 	"\/sass\/components\/_buttons.scss": {
 		"aP": 0,
@@ -655,28 +749,15 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/materialize.css": {
+	"\/sass\/plugins\/animate.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/sass\/materialize-min.css",
+		"oAP": "\/sass\/plugins\/animate-min.css",
 		"oF": 0,
 		"oS": 0
-		},
-	"\/sass\/materialize.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/sass\/materialize.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
 		},
 	"\/sass\/plugins\/owl.carousel.css": {
 		"aP": 0,
@@ -697,15 +778,6 @@
 		"oAP": "\/sass\/plugins\/owl.theme-min.css",
 		"oF": 0,
 		"oS": 0
-		},
-	"\/scripts.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/scripts-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
 		},
 	"\/services.html": {
 		"ft": 8192,
