@@ -9,12 +9,6 @@
 	],
 "creatorBuild": "25444",
 "files": {
-	"\/about.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/about.html",
-		"oF": 0
-		},
 	"\/assets\/logo.png": {
 		"ft": 32768,
 		"iS": 25447,
@@ -111,10 +105,10 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/contact.html": {
+	"\/CNAME": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/contact.html",
+		"oAP": "\/CNAME",
 		"oF": 0
 		},
 	"\/css\/style.css": {
@@ -778,12 +772,6 @@
 		"oAP": "\/sass\/plugins\/owl.theme-min.css",
 		"oF": 0,
 		"oS": 0
-		},
-	"\/services.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/services.html",
-		"oF": 0
 		}
 	},
 "hooks": [
