@@ -123,7 +123,7 @@
           </div>
           </div>
            <div class="column">
-          <iframe src="https://player.vimeo.com/video/217778468?autoplay=1&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          <iframe src="https://player.vimeo.com/video/217778468?autoplay=1&title=0&byline=0&portrait=0" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>  
         </div>  
         </div>	
@@ -247,21 +247,19 @@ We proudly oversee over 20 employees, use the latest customs technology, maintai
 
 	<script src="assets/js/jquery-1.12.0.min.js"></script>
 	<script src="assets/js/wow.min.js"></script>
-	<script src="assets/js/dist/owl.carousel.min.js"></script>
+	<script src="assets/js/dist/owl.carousel.js"></script>
     <script src="assets/js/scripts.js"></script>
-    <script>
-        new WOW().init();
-
-        $(document).ready(function(){
-		  $('.owl-carousel').owlCarousel();
-		});
-    </script>
-      <script type="text/javascript">
-    jQuery( document ).ready(function($) {
-    $('video').click(function() {
-        this.paused ? this.play() : this.pause();
-    });
+    <script type="text/javascript">
+      $('.owl-carousel').owlCarousel({
+  responsive:{
+        0:{  // Breakpoint from 0 up
+                items:1   // Options
+        },
+        600:{  // Breakpoint from 600 up
+                items:3
+        }
+  }
 });
-  </script>
+    </script>
     </body>
 </html>
