@@ -7,9 +7,10 @@
 		"uuidString": "22254971-3EE4-4946-906C-4D2C558472E7"
 		}
 	],
-"creatorBuild": "25704",
+"creatorBuild": "26148",
 "files": {
 	"\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.gitignore",
@@ -79,6 +80,7 @@
 		"uL": 1
 		},
 	"\/assets\/fonts\/FontAwesome\/fontawesome-webfont.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/FontAwesome\/fontawesome-webfont.eot",
@@ -95,31 +97,25 @@
 		"prP": 0
 		},
 	"\/assets\/fonts\/FontAwesome\/fontawesome-webfont.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/FontAwesome\/fontawesome-webfont.ttf",
 		"oF": 0
 		},
 	"\/assets\/fonts\/FontAwesome\/fontawesome-webfont.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/FontAwesome\/fontawesome-webfont.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/FontAwesome\/fontawesome-webfont.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/FontAwesome\/fontawesome-webfont.woff2",
 		"oF": 0
-		},
-	"\/assets\/img\/16YONDR2SUB-superJumbo.jpg": {
-		"ft": 16384,
-		"iS": 689885,
-		"oA": 0,
-		"oAP": "\/assets\/img\/16YONDR2SUB-superJumbo.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/assets\/img\/beach-resort.jpg": {
 		"ft": 16384,
@@ -127,6 +123,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/img\/beach-resort.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -136,6 +133,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/img\/customspaper.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -145,6 +143,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/img\/golfcourse.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -154,6 +153,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/img\/handshake.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -163,55 +163,20 @@
 		"oA": 0,
 		"oAP": "\/assets\/img\/keytruck.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/img\/logo-full.png": {
 		"ft": 32768,
 		"iS": 31426,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/img\/logo-full.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
-		},
-	"\/assets\/img\/logo.png": {
-		"ft": 32768,
-		"iS": 8020,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/assets\/img\/logo.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/ocean.jpg": {
-		"ft": 16384,
-		"iS": 70182,
-		"oA": 0,
-		"oAP": "\/assets\/img\/ocean.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/ocean.mp4": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/img\/ocean.mp4",
-		"oF": 0
-		},
-	"\/assets\/img\/ocean.ogv": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/img\/ocean.ogv",
-		"oF": 0
-		},
-	"\/assets\/img\/ocean.webm": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/img\/ocean.webm",
-		"oF": 0
 		},
 	"\/assets\/img\/services.jpg": {
 		"ft": 16384,
@@ -219,6 +184,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/img\/services.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -228,54 +194,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/img\/shipping-truck.jpg",
 		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/step1.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/img\/step1.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/assets\/img\/step2.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/img\/step2.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/assets\/img\/step3.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/img\/step3.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/assets\/img\/w10.jpg": {
-		"ft": 16384,
-		"iS": 4872004,
-		"oA": 0,
-		"oAP": "\/assets\/img\/w10.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/w5.jpg": {
-		"ft": 16384,
-		"iS": 3112440,
-		"oA": 0,
-		"oAP": "\/assets\/img\/w5.jpg",
-		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -285,43 +204,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/img\/workerman.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/yondr-header-optimized.jpg": {
-		"ft": 16384,
-		"iS": 0,
-		"oA": 0,
-		"oAP": "\/assets\/img\/yondr-header-optimized.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/yondr-header.jpg": {
-		"ft": 16384,
-		"iS": 9082339,
-		"oA": 0,
-		"oAP": "\/assets\/img\/yondr-header.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/yondr-phone-free-concert-crowd.jpg": {
-		"ft": 16384,
-		"iS": 597774,
-		"oA": 0,
-		"oAP": "\/assets\/img\/yondr-phone-free-concert-crowd.jpg",
-		"oF": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/assets\/img\/yondr-pouch-section.jpg": {
-		"ft": 16384,
-		"iS": 286120,
-		"oA": 0,
-		"oAP": "\/assets\/img\/yondr-pouch-section.jpg",
-		"oF": 0,
-		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/js\/dist\/assets\/ajax-loader.gif": {
@@ -395,14 +279,16 @@
 	"\/assets\/js\/dist\/assets\/owl.video.play.png": {
 		"ft": 32768,
 		"iS": 4976,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/dist\/assets\/owl.video.play.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/js\/dist\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/js\/dist\/LICENSE",
@@ -410,6 +296,7 @@
 		},
 	"\/assets\/js\/dist\/owl.carousel.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/dist\/owl.carousel-min.js",
@@ -419,6 +306,7 @@
 		},
 	"\/assets\/js\/dist\/owl.carousel.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/dist\/owl.carousel.min-min.js",
@@ -427,10 +315,10 @@
 		"tS": 0
 		},
 	"\/assets\/js\/dist\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -446,6 +334,7 @@
 		},
 	"\/assets\/js\/jquery-1.12.0.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/jquery-1.12.0.min-min.js",
@@ -455,6 +344,7 @@
 		},
 	"\/assets\/js\/jquery.goup.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/jquery.goup.min-min.js",
@@ -464,6 +354,7 @@
 		},
 	"\/assets\/js\/jquery.vide.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/jquery.vide.min-min.js",
@@ -473,6 +364,7 @@
 		},
 	"\/assets\/js\/modernizr-3.3.1.custom.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/modernizr-3.3.1.custom.min-min.js",
@@ -482,6 +374,7 @@
 		},
 	"\/assets\/js\/scripts-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/scripts-min-min.js",
@@ -491,6 +384,7 @@
 		},
 	"\/assets\/js\/scripts.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/scripts-min.js",
@@ -500,6 +394,7 @@
 		},
 	"\/assets\/js\/wow.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/wow.min-min.js",
@@ -507,104 +402,147 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/assets\/logos\/AAEI.png": {
+		"ft": 32768,
+		"iS": 24020,
+		"oA": 0,
+		"oAP": "\/assets\/logos\/AAEI.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/logos\/anierm.png": {
+		"ft": 32768,
+		"iS": 27340,
+		"oA": 0,
+		"oAP": "\/assets\/logos\/anierm.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/logos\/chileno-bay-logo.png": {
 		"ft": 32768,
 		"iS": 97351,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/logos\/chileno-bay-logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/logos\/el-dorado-logo.png": {
 		"ft": 32768,
 		"iS": 97351,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/logos\/el-dorado-logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/logos\/exportersimporters.png": {
+		"ft": 32768,
+		"iS": 117881,
+		"oA": 0,
+		"oAP": "\/assets\/logos\/exportersimporters.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/logos\/four-seasons-punta-mita-logo.png": {
 		"ft": 32768,
 		"iS": 97416,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/logos\/four-seasons-punta-mita-logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/logos\/montage-logo.png": {
 		"ft": 32768,
 		"iS": 97278,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/logos\/montage-logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/logos\/one-and-only-palmilla-logo.png": {
 		"ft": 32768,
 		"iS": 97278,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/logos\/one-and-only-palmilla-logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/logos\/pueblo-bonito-logo.png": {
 		"ft": 32768,
 		"iS": 97205,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/logos\/pueblo-bonito-logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/logos\/quivira-los-cabos-logo.png": {
 		"ft": 32768,
 		"iS": 97008,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/logos\/quivira-los-cabos-logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/logos\/ritz-carlton-logo.png": {
 		"ft": 32768,
 		"iS": 97008,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/logos\/ritz-carlton-logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/logos\/saint-regis-punta-mita-logo.png": {
 		"ft": 32768,
 		"iS": 97008,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/logos\/saint-regis-punta-mita-logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/logos\/villas-del-mar-logo.png": {
 		"ft": 32768,
 		"iS": 19781,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/logos\/villas-del-mar-logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/sass\/base\/_all.sass": {
@@ -1336,28 +1274,31 @@
 		"uL": 1
 		},
 	"\/CNAME": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/CNAME",
 		"oF": 0
 		},
 	"\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/favicon.ico",
 		"oF": 0
 		},
 	"\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.html",
 		"oF": 0
 		},
 	"\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -1784,6 +1725,10 @@
 			"active": 0,
 			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
 			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
 		"array-bracket-spacing": {
 			"active": 0,
 			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
@@ -1791,6 +1736,10 @@
 		"array-callback-return": {
 			"active": 0,
 			"optionString": ""
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
 			},
 		"arrow-body-style": {
 			"active": 0,
@@ -1888,6 +1837,10 @@
 			"active": 0,
 			"optionString": "'always', {'null': 'always'}"
 			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
 		"func-call-spacing": {
 			"active": 0,
 			"optionString": "'never'"
@@ -1904,9 +1857,17 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
 			},
 		"global-require": {
 			"active": 0,
@@ -1964,9 +1925,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -1996,6 +1957,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -2005,14 +1970,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -2035,6 +1992,10 @@
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
+			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-caller": {
 			"active": 0,
@@ -2340,6 +2301,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
@@ -2576,6 +2541,10 @@
 			"active": 0,
 			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
 			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
 		"prefer-arrow-callback": {
 			"active": 0,
 			"optionString": ""
@@ -2644,6 +2613,10 @@
 			"active": 0,
 			"optionString": "{'before': false, 'after': true}"
 			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
 		"sort-imports": {
 			"active": 0,
 			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
@@ -2683,6 +2656,10 @@
 		"strict": {
 			"active": 0,
 			"optionString": "'safe'"
+			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
 			},
 		"symbol-description": {
 			"active": 0,
@@ -3096,7 +3073,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 0,
@@ -3129,6 +3107,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -3164,21 +3143,14 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -3210,13 +3182,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -3225,7 +3197,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -3234,7 +3207,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"enableLossy": 1,
+		"optimizerType": 1,
 		"quality": 100
 		},
 	"languageDefaultsPUG": {
@@ -3245,7 +3218,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -3273,7 +3247,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -3320,9 +3295,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
+	"susyVersion": 3,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
